@@ -32,7 +32,7 @@ Este es un juego del ahorcado interactivo con las siguientes características:
 1. Ejecuta el juego con el siguiente comando:
 
    ```bash
-   python hangman.py
+   python Ahorcado.py
    ```
 
 2. Selecciona una categoría.
